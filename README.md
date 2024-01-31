@@ -28,6 +28,10 @@ Now we can start building our pipeline!
 
 The first pipeline is an ETL pipeline using blocks to load the yellow taxi data from this GitHub repo, transform the data, and export the data into a Postgres database within our docker container. The resulting DAG should look something like the screenshot below.
 
+<div>
+<img src="https://github.com/amal572/data_engenering_week2/blob/main/image/week2.PNG">
+</div>
+
 
 
 ## Assistance
