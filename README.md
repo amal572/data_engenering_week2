@@ -26,6 +26,8 @@ Now we can start building our pipeline!
 
 ## Building an ETL Pipeline with Mage (PostgreSQL)
 
+The first pipeline is an ETL pipeline using blocks to load the yellow taxi data from this GitHub repo, transform the data, and export the data into a Postgres database within our docker container. The resulting DAG should look something like the screenshot below.
+
 
 
 ## Assistance
