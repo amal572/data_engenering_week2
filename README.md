@@ -167,7 +167,7 @@ def export_data_to_postgres(df: DataFrame, **kwargs) -> None:
 
 ### Building an ETL Pipeline with Mage (Google Cloud)
 <div>
-<img src="https://github.com/amal572/data_engenering_week2/blob/main/image/week2.PNG">
+<img src="https://github.com/amal572/data_engenering_week2/blob/main/image/week31.PNG">
 </div>
 
 Update Mage Configuration (Environmental Variables)
